@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto:6&height=300&section=header&text=Welcome%21%20LegendKi%20Github%20👋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto:6&height=300&section=header&text=Welcome%21%20LegendKi%20Github%20👋&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 
 ##  	:raccoon: KI HYUN WOO (LegendKi)
