@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto:6&height=300&section=header&text=Welcome%21%20LegendKi%20Github%20👋&fontSize=50&animation=fadeIn&fontAlignY=40)
 
+<img src="https://github.com/LegendKi/LegendKi/assets/90371644/d1b51418-bb3e-4021-bbe0-5f8d54213f21"  width="860" height="500">
 
 ##  	:raccoon: KI HYUN WOO (LegendKi)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendKi&show_icons=true&theme=radical)
