@@ -23,9 +23,12 @@
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ### Basics :facepalm:
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+
 
 
 # :mailbox_with_mail: Contacts
